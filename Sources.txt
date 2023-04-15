@@ -1,0 +1,18 @@
+# "I" and "H" style Errorbars
+https://stackoverflow.com/questions/35915431/top-and-bottom-line-on-errorbar-with-python-and-seaborn 
+https://stackoverflow.com/questions/18434492/matplotlib-errorbar-caps-missing
+
+#Extra text in legend
+https://stackoverflow.com/questions/16826711/is-it-possible-to-add-a-string-as-a-legend-item-in-matplotlib
+
+#legend outside the plot
+https://stackoverflow.com/questions/4700614/how-to-put-the-legend-outside-the-plot
+
+#new line in fr-string
+https://stackoverflow.com/questions/44780357/how-can-i-use-newline-n-in-an-f-string-to-format-output
+
+#break up a long Stind in the code
+https://stackoverflow.com/questions/10660435/how-do-i-split-the-definition-of-a-long-string-over-multiple-lines
+
+#location of legend
+https://www.geeksforgeeks.org/change-the-legend-position-in-matplotlib/
