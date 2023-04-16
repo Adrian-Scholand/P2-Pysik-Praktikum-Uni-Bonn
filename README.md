@@ -6,6 +6,8 @@ code mostly connotated in german. Only partialy in english
 
 included experiments:
 
+Example file for your own code (includes linear fit, scatterplot)
+
 232 Gleichstrom, Spannungsquelle, Wiederstände
 
 234 Wechselstromwiederstände
