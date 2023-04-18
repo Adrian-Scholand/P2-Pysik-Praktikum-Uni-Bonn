@@ -8,6 +8,8 @@ included experiments:
 
 Example file for your own code (includes linear fit, scatterplot)
 
+All Skripts for the actual experiments are nor finished or not very pretty and badly annotated.
+
 232 Gleichstrom, Spannungsquelle, Wiederstände
 
 234 Wechselstromwiederstände
