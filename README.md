@@ -8,7 +8,7 @@ included experiments:
 
 Example file (New_Experiment.ipynb) for your own code (includes linear fit, scatterplot)
 
-All Skripts for the actual experiments are nor finished or not very pretty and badly annotated.
+All Skripts for the actual experiments are NOT FINISHED AND FULL OF ERRORS and badly annotated.
 
 232 Gleichstrom, Spannungsquelle, Wiederstände
 
